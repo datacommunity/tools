@@ -1,7 +1,7 @@
 # tools
 Community tools
 
-Json template for adding new link:
+Json template for adding a new link:
 
 ```
    ,{
