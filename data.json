@@ -64,4 +64,9 @@
         "Description": "Toolbox repository for Tiger team",
         "Url": "https://github.com/microsoft/tigertoolbox"
     }
+    ,{
+        "Name": "ImportExcel",
+        "Description": "PowerShell Module allows you to read and write Excel files without installing Microsoft Excel",
+        "Url": "https://github.com/dfinke/ImportExcel"
+    }
 ]
