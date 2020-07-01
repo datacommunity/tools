@@ -9,4 +9,59 @@
         "Description": "Tools for deploying Data Factory (v2) in Microsoft Azure",
         "Url": "https://github.com/SQLPlayer/azure.datafactory.tools/"
     }
+    ,{
+        "Name": "dbachecks",
+        "Description": "SQL Server Environmental Validation",
+        "Url": "https://github.com/sqlcollaborative/dbachecks"
+    }
+     ,{
+        "Name": "dbatools",
+        "Description": "SQL Server automation and instance migrations have never been safer, faster or freer",
+        "Url": "https://github.com/sqlcollaborative/dbatools"
+    }
+     ,{
+        "Name": "Open Query Store",
+        "Description": "Query Store functionality without SQL Server 2016!",
+        "Url": "https://www.openquerystore.com/"
+    }
+     ,{
+        "Name": "SQL Server Maintenance Solution",
+        "Description": "he SQL Server Maintenance Solution comprises scripts for running backups, integrity checks, and index and statistics maintenance on all editions of Microsoft SQL Server",
+        "Url": "https://ola.hallengren.com/"
+    }
+     ,{
+        "Name": "WorkloadTools",
+        "Description": "A collection of tools to collect, analyze and replay SQL Server workloads, on premises and in the cloud",
+        "Url": "https://github.com/spaghettidba/WorkloadTools"
+    }
+      ,{
+        "Name": "XESmartTarget",
+        "Description": "A configurable target for SQL Server Extended Events. Write to a table or perform custom actions with no effort.",
+        "Url": "https://github.com/spaghettidba/XESmartTarget"
+    }
+       ,{
+        "Name": "DarlingData",
+        "Description": "SQL Server Troubleshooting Scripts",
+        "Url": "https://github.com/erikdarlingdata/DarlingData"
+    }
+       ,{
+        "Name": "sp_whoisactive",
+        "Description": "sp_whoisactive is a comprehensive activity monitoring stored procedure that works for all versions of SQL Server from 2005 through 2017.",
+        "Url": "http://whoisactive.com/"
+    }
+        ,{
+        "Name": "Glenn's SQL Server Diagnostic Queries",
+        "Description": "Glenn's SQL Server Diagnostic Queries",
+        "Url": "https://glennsqlperformance.com/resources/"
+    }
+        ,{
+        "Name": "SQL-Server-First-Responder-Kit",
+        "Description": "sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.",
+        "Url": "https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit"
+    }
+        ,{
+        "Name": "tigertoolbox",
+        "Description": "Toolbox repository for Tiger team",
+        "Url": "https://github.com/microsoft/tigertoolbox"
+    }
 ]
