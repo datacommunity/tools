@@ -1,4 +1,3 @@
-# tools
 Community tools
 
 Json template for adding a new link:
