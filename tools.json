@@ -1,1 +1,8 @@
-
+[
+    {
+        "Name": "SQLWATCH",
+        "url": "https://sqlwatch.io",
+        "Description": "Free SQL Server Monitoring Framework",
+        "Category": "Monitoring Tools"
+    }
+]
