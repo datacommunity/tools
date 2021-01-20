@@ -5,8 +5,8 @@
         "Url": "https://sqlwatch.io"
     }
     ,{
-        "Name": "Azure Datafactory Tools",
-        "Description": "Tools for deploying Data Factory (v2) in Microsoft Azure",
+        "Name": "azure.datafactory.tools",
+        "Description": "PowerShell module for deploying Data Factory (v2) in Microsoft Azure",
         "Url": "https://github.com/SQLPlayer/azure.datafactory.tools/"
     }
     ,{
@@ -19,7 +19,12 @@
         "Description": "SQL Server automation and instance migrations have never been safer, faster or freer",
         "Url": "https://github.com/sqlcollaborative/dbatools"
     }
-     ,{
+    ,{
+        "Name": "Deploy Azure Data Factory by SQLPlayer",
+        "Description": "Azure DevOps extension (task) to publish Azure Data Factory (v2) easily",
+        "Url": "https://marketplace.visualstudio.com/items?itemName=SQLPlayer.DataFactoryTools"
+    }
+    ,{
         "Name": "Open Query Store",
         "Description": "Query Store functionality without SQL Server 2016!",
         "Url": "https://www.openquerystore.com/"
